@@ -7,7 +7,9 @@
     <list default="true" id="54e833db-5c4b-4457-9326-2d98912f9844" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ocr/model/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ocr/model/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ocr/service/OcrIDService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ocr/service/OcrIDService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/json/НИКОЛА-НИКОЛИЋ-007419569-28-10-2024.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

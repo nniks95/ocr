@@ -33,4 +33,20 @@ public class Person {
     public String getCardNumberId() {
         return cardNumberId;
     }
+
+    public void setFirstName(String firstName) {
+        this.firstName = firstName;
+    }
+
+    public void setLastName(String lastName) {
+        this.lastName = lastName;
+    }
+
+    public void setDateOfBirth(String dateOfBirth) {
+        this.dateOfBirth = dateOfBirth;
+    }
+
+    public void setCardNumberId(String cardNumberId) {
+        this.cardNumberId = cardNumberId;
+    }
 }
